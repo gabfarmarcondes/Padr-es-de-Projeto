@@ -1,10 +1,5 @@
 # Implementação de Padrões de Projeto - Trabalho da Matéria de Engenharia de Software do curso de Ciência da Computação.
 
-## Os Três Padrões de Projeto Escolhidos:
-- Facade
-- Singleton
-- Chain of Responsability
-
 ### Facade
 **Objetivo**: Facade é um design de padrão de projeto que ajuda a simplificar uma biblioteca, um framework ou qualquer outro set de classes complexas.
 
